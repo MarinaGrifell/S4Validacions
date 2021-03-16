@@ -24,7 +24,4 @@ el format estàndard dels email (Hi ha molta documentació)
 
 - Crear i validar un formulari de registre (com a mínim haurà de tenir un camp email, contrasenya, repetició de contrasenya i un desplegable de província).
 
-● Les condicions de validació les deixem a les vostres mans.
 
-
-Exemple amb la clase de bootstrap "is-invalid":
